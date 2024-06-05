@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:#302C42;
+}
+.hydra{
+    color: rgb(151, 151, 221);
+    font-family:'Times New Roman', Times, serif;
+    padding-top:15px;
+}
+.items{
+    list-style-type: none;
+}
+.items-1{
+    text-decoration: none;
+}
+.button{
+    border-radius:50px;
+}
+.button-1{
+    background-color:lavender;
+    border-radius: 50px;
+}
+.header-1{
+    padding-left:250px;
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.header-2{
+    padding-left:150px
+}
+.but-2{
+    padding-left: 30px;
+}
+.dive{
+    color: rgb(151, 151, 221);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.dive-1{
+    column-gap: 1%;
+}
+.lorem{
+    color: lavender;
+}
+.build{
+    background-color: lavender;
+    border-radius:30px;
+}
+.lorem{
+    padding-top: 90px;
+}
+.information{
+    background-color: #232030;
+    border-radius: 65px;
+}
+.vl{
+    height:100px;
+    border:1px solid rgb(71, 70, 70);
+}
+.hydra{
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.simulation{
+    background-color: #232030;
+    border-radius: 30px;
+}
+.image{
+    padding-left: 90px;
+}
+.try{
+    margin-left: 80px;
+}
+.col-space{
+    padding: 1%;
+}
+.bgimg{
+    background-image: url("img3.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:320px;
+    width:100%;
+}
+.techno{
+    border-radius: 170px;
+}
+.by-hydra{
+    font-size: xx-large;
+}
+.hardware{
+    padding-top: 100px;
+}
+.first{
+    border-radius:90px;
+    border:1px solid white;
+    background-color:#232030 ;
+}
+.something{
+    border-radius: 40px;
+    border:1px solid white;
+    background-color:#232030 ;
+}
+.send{
+    margin-left: 565px;
+}
+.join{
+    background-color: #232030 ;
+    border-radius: 40px;
+}
+.experience{
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
